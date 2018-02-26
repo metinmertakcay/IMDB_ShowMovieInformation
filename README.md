@@ -13,4 +13,11 @@ Veriler, [Omdb Api](http://www.omdbapi.com/) sitesinden Json formatında alınm�
 
 ## Kullanılmış Kütüphaneler ##
 *Picasso
- 
+
+## Ekran Çıktıları ##
+[!first_screen](https://github.com/metinmertakcay/IMDB_ShowMovieInformation/blob/master/images/_20180226_223852.JPG)
+
+[!list of films](https://github.com/metinmertakcay/IMDB_ShowMovieInformation/blob/master/images/_20180226_223923.JPG)
+
+[special information about film](https://github.com/metinmertakcay/IMDB_ShowMovieInformation/blob/master/images/_20180226_223952.JPG)
+  
