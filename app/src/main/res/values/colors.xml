@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Black">#000000</color>
+    <color name="Gri">#39433F</color>
+    <color name="Acik_Gri">#939D99</color>
+    <color name="beyaz_mavi">#EFF3FA</color>
+    <color name="acik_mavi">#D8F3FF</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Red">#FF0010</color>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMDb</string>
+    <string name="information">Enter a movie name</string>
+    <string name="show">Show</string>
+    <string name="warn">You appear offline</string>
+    <string name="info">Please Enter Valid Movie Name</string>
+</resources>
